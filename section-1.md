@@ -9,6 +9,16 @@
   })(document);
 </script>
 
+<style>
+body {
+writing-mode: vertical-rl;
+font-family: higumin-rough, dnp-shuei-nshogomincho-std, sans-serif;
+font-size: 30px;
+font-weight: 400;
+font-style: normal;
+}
+</style>
+
 ## 君死にたまふことなかれ
 
 　（旅順の攻囲軍にある弟宗七を歎きて）
