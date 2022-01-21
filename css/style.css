@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+writing-mode: vertical-rl;
+
 html{
 font-family: dnp-shuei-nshogomincho-std, higumin-rough, sans-serif;
 font-weight: 400;
