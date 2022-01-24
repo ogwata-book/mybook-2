@@ -10,13 +10,11 @@
 </script>
 
 <style>
-
 body {
 writing-mode: vertical-rl;
 font-size: 30px;
 font-weight: 400;
 }
-
 </style>
 
 - 打ち揚ぐるボールは高く雲に入りて　又落ち来きたる人の手の中に（正岡子規）
