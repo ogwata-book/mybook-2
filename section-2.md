@@ -11,11 +11,10 @@
 
 <style>
 
-body { 
-
- font-size: 30px;
- font-weight: 400;
-
+body {
+writing-mode: vertical-rl;
+font-size: 30px;
+font-weight: 400;
 }
 
 </style>
