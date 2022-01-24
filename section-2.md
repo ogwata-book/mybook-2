@@ -2,6 +2,7 @@
 <script src='https://dfo.dynacw.co.jp/JSDynaFont/DynaFont.js'></script>
 
 <style>
+
 body { 
  font-family: 'DFKinBunTsubaki-W5'
  font-family: 'DFKaiShoRWPro6N-W5'
