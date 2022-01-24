@@ -1,15 +1,22 @@
-<script>FontJSON={User:"42596" ,DomainID:"D0008738MFR", Font:["DFKinBunTsubaki-W5","DFKaiShoRWPro6N-W5","DFJadeFangSongJP13N-W4"]}</script>
-<script src='https://dfo.dynacw.co.jp/JSDynaFont/DynaFont.js'></script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'jsf2sps',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
 
 <style>
 
 body { 
- font-family: 'DFKinBunTsubaki-W5'
- font-family: 'DFKaiShoRWPro6N-W5'
- font-family: 'DFJadeFangSongJP13N-W4'
+
  font-size: 30px;
  font-weight: 400;
- }
+
+}
 
 </style>
 
