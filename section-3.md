@@ -1,7 +1,7 @@
 <script>
   (function(d) {
     var config = {
-      kitId: 'jsf2sps',
+      kitId: 'awz0epc',
       scriptTimeout: 3000,
       async: true
     },
@@ -14,6 +14,7 @@ body {
 writing-mode: vertical-rl;
 font-size: 22px;
 font-weight: 400;
+font-family: dnp-shuei-mincho-pr6n, sans-serif;
 }
 </style>
 
