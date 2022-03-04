@@ -13,7 +13,7 @@
 body {
 writing-mode: vertical-rl;
 font-family: dnp-shuei-4gob-std, sans-serif;
-font-size: 30px;
+font-size: 24px;
 font-weight: 400;
 font-style: normal;
 }
