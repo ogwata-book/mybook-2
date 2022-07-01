@@ -4,8 +4,7 @@
 <style>
 body {
  font-family: 'DFJadeFangSongJP13N-W4'
- 
- }
+}
 </style>
 
 - 打ち揚ぐるボールは高く雲に入りて　又落ち来きたる人の手の中に（正岡子規）
