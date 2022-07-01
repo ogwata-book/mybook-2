@@ -3,8 +3,8 @@ module.exports = {
   author: '尾久綿次郎',
   theme: 'css/style.css',
   entry: [
-  //  'section-1.md',
+    'section-1.md',
     'section-2.md',
-  //  'section-3.md',
+    'section-3.md',
   ]
 }
